@@ -1,4 +1,6 @@
-(![logo](https://raw.githubusercontent.com/Damianexe/Proyecto_Final_Estructura/refs/heads/master/src/imagenes/Imagen1.png))
+![logo](https://raw.githubusercontent.com/Damianexe/Proyecto_Final_Estructura/refs/heads/master/src/imagenes/Imagen1.png)
+
+
 COMPUTACION
 Estructura de Datos
 Realizado por: Damian Ortiz y Jordán Carmona
@@ -24,9 +26,11 @@ Cada integrante del equipo contribuyó en diferentes aspectos del desarrollo del
 •	Integrante 2: Depuración, validación de camino.
 Cabe recalcar que todos los integrantes apoyaron en la realización del trabajo, con diferentes aportes al proyecto.
 5. Capturas de la Implementación Final
-LABERINTO GENERADO:
 
 METODO DFS:
+
 ![DFS](https://raw.githubusercontent.com/Damianexe/Proyecto_Final_Estructura/refs/heads/master/src/imagenes/Imagen2.png)
+
 METODO RECURSIVO:
+
 ![rec](https://raw.githubusercontent.com/Damianexe/Proyecto_Final_Estructura/refs/heads/master/src/imagenes/Captura%20de%20pantalla%202025-02-19%20135542.png)
